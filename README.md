@@ -47,5 +47,5 @@ I specialize in:
 ## Get in Touch
 
 **Socials**
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/aharon-chetrit-436886267/)
-- **GitHub:** [github.com/ahron-chet](https://github.com/ahron-chet)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/aharon-chetrit-436886267/)
+- **GitHub:** [github](https://github.com/ahron-chet)
