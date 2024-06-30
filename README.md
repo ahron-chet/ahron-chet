@@ -27,17 +27,14 @@ I specialize in:
 
 ## Notable Projects
 
-### [Undetected LSASS Dumper & Mimikatz Runner](https://github.com/ahron-chet/Guard-Bypass-Toolkit-LSASS-Dumper-and-Mimikatz-Runner)
-A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory, using techniques like manual PE loading, EAT hooking, and memory manipulation. Includes anti-hooking by processing DLL EAT, calculating actual memory addresses, and updating IAT with unhooked functions. Uses a callback function to manipulate buffers and bypass Defender while dumping LSASS.
+- **[Undetected LSASS Dumper & Mimikatz Runner](https://github.com/ahron-chet/Guard-Bypass-Toolkit-LSASS-Dumper-and-Mimikatz-Runner)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory, using techniques like manual PE loading, EAT hooking, and memory manipulation. Includes anti-hooking by processing DLL EAT, calculating actual memory addresses, and updating IAT with unhooked functions. Uses a callback function to manipulate buffers and bypass Defender while dumping LSASS.
 
-### [Command & Control Framework](https://github.com/ahron-chet/NeptoonC2)
-An advanced Command and Control (C2) tool for various attack simulations, including features like encrypted communications, full cryptographic infrastructure, and AI integration.
+- **[Command & Control Framework](https://github.com/ahron-chet/NeptoonC2)**: An advanced Command and Control (C2) tool for various attack simulations, including features like encrypted communications, full cryptographic infrastructure, and AI integration.
 
-### [PE-Loader & EAT Hooking](https://github.com/ahron-chet/EAT-Functions-Hooking)
-A project focused on manually loading PE files and hooking Export Address Table (EAT) functions to bypass security mechanisms.
+- **[PE-Loader & EAT Hooking](https://github.com/ahron-chet/EAT-Functions-Hooking)**: A project focused on manually loading PE files and hooking Export Address Table (EAT) functions to bypass security mechanisms.
 
-### [Asymmetric Encryption Algorithms](https://github.com/ahron-chet/Asymmetric-encryption-algorithms-RSA-Elgamal-Diffie-Hellman)
-Implementations of RSA, ElGamal, and Diffie-Hellman algorithms in Python, covering all the mathematical details behind them.
+- **[Asymmetric Encryption Algorithms](https://github.com/ahron-chet/Asymmetric-encryption-algorithms-RSA-Elgamal-Diffie-Hellman)**: Implementations of RSA, ElGamal, and Diffie-Hellman algorithms in Python, covering all the mathematical details behind them.
+
 
 ## Currently
 
