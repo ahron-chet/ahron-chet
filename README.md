@@ -9,10 +9,9 @@
 - **Web Development**
 
 🔭 I’m currently working on enhancing my Command and Control (C2) framework and developing advanced EDR bypass techniques.  
-🌱 I’m currently learning more about AI integration in cybersecurity tools.  
-👯 I’m looking to collaborate on projects related to malware development and reverse engineering.  
-🤔 I’m looking for help with optimizing my existing tools for better performance and evasion.  
-💬 Ask me about Windows internals, EDR bypassing, and cryptographic algorithms.
+🌱 I’m currently learning more about Windows internals, EDR bypassing, and cryptographic algorithms.  
+👯 I’m looking to collaborate on projects related to malware development and reverse engineering.   
+
 
 ## Languages and Tools
 
