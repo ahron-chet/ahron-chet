@@ -9,7 +9,9 @@
 - **Web Development**
 
 🔭 I’m currently working on enhancing my Command and Control (C2) framework and developing advanced EDR bypass techniques.  
+
 🌱 I’m currently learning more about Windows internals, EDR bypassing, and cryptographic algorithms.  
+
 👯 I’m looking to collaborate on projects related to malware development and reverse engineering.   
 
 
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
 </p>
 
-## Notable Projects
+## Current Projects
 
 - **[Undetected LSASS Dumper & Mimikatz Runner](https://github.com/ahron-chet/Guard-Bypass-Toolkit-LSASS-Dumper-and-Mimikatz-Runner)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory.
 - **[Command & Control Framework](https://github.com/ahron-chet/NeptoonC2)**: Advanced C2 tool for various attack simulations.
