@@ -29,7 +29,7 @@
 
 ## Current Projects
 
-- **[Undetected LSASS Dumper & Mimikatz Runner](https://github.com/ahron-chet/Guard-Bypass-Toolkit-LSASS-Dumper-and-Mimikatz-Runner)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory.
+- **[Anti-Hooking-PE-Loader](https://github.com/ahron-chet/Anti-Hooking-PE-Loader)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory.
 - **[Command & Control Framework](https://github.com/ahron-chet/NeptoonC2)**: Advanced C2 tool for various attack simulations.
 - **[PE-Loader & EAT Hooking](https://github.com/ahron-chet/EAT-Functions-Hooking)**: Manually loading PE files and hooking Export Address Table (EAT) functions.
 - **[Python Cryptography library](https://github.com/ahron-chet/Asymmetric-encryption-algorithms-RSA-Elgamal-Diffie-Hellman)**: Implementations of RSA, ElGamal, and Diffie-Hellman algorithms in Python.
