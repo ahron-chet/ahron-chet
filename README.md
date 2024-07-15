@@ -5,7 +5,7 @@
 - **Python**
 - **Assembler**
 - **Reverse Engineering**
-- **Cloud & On-Prem Detection Engineering**
+- **Cloud & on-Prem Detection engineering**
 
 🔭 I’m currently working on enhancing my Command and Control (C2) framework and developing advanced EDR bypass techniques.  
 
