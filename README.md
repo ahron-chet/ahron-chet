@@ -4,7 +4,7 @@
 - **C#**
 - **Python**
 - **Assembler**
-- **Reverse Engineering**
+- **Reverse engineering**
 - **Cloud & on-Prem Detection engineering**
 
 🔭 I’m currently working on enhancing my Command and Control (C2) framework and developing advanced EDR bypass techniques.  
