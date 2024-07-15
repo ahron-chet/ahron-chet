@@ -28,7 +28,7 @@
 
 ## Current Projects
 
-- **[PE Loader w/ Anti Hooking](https://github.com/ahron-chet/Anti-Hooking-PE-Loader)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory.
+- **[PureLoader](https://github.com/ahron-chet/Anti-Hooking-PE-Loader)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory.
 - **[Command & Control Framework](https://github.com/ahron-chet/NeptoonC2)**: Advanced C2 tool for various attack simulations.
 - **[PE Loader w/ EAT Hooking](https://github.com/ahron-chet/EAT-Functions-Hooking)**: Manually loading PE files and hooking Export Address Table (EAT) functions.
 - **[PyCryptoLib](https://github.com/ahron-chet/Asymmetric-encryption-algorithms-RSA-Elgamal-Diffie-Hellman)**: Implementations of RSA, ElGamal, and Diffie-Hellman algorithms in Python.
