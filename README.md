@@ -5,8 +5,7 @@
 - **Python**
 - **Assembler**
 - **Reverse Engineering**
-- **Cloud Development**
-- **Web Development**
+- **Cloud & On-Prem Detection Engineering**
 
 🔭 I’m currently working on enhancing my Command and Control (C2) framework and developing advanced EDR bypass techniques.  
 
@@ -29,13 +28,7 @@
 
 ## Current Projects
 
-- **[Anti-Hooking-PE-Loader](https://github.com/ahron-chet/Anti-Hooking-PE-Loader)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory.
+- **[PE Loader w/ Anti Hooking](https://github.com/ahron-chet/Anti-Hooking-PE-Loader)**: A project demonstrating bypassing Microsoft EDR to run Mimikatz in-memory.
 - **[Command & Control Framework](https://github.com/ahron-chet/NeptoonC2)**: Advanced C2 tool for various attack simulations.
-- **[PE-Loader & EAT Hooking](https://github.com/ahron-chet/EAT-Functions-Hooking)**: Manually loading PE files and hooking Export Address Table (EAT) functions.
-- **[Python Cryptography library](https://github.com/ahron-chet/Asymmetric-encryption-algorithms-RSA-Elgamal-Diffie-Hellman)**: Implementations of RSA, ElGamal, and Diffie-Hellman algorithms in Python.
-
-## Get in Touch
-
-**Socials**
-- **LinkedIn:** [linkedin](https://www.linkedin.com/in/aharon-chetrit-436886267/)
-- **GitHub:** [github](https://github.com/ahron-chet)
+- **[PE Loader w/ EAT Hooking](https://github.com/ahron-chet/EAT-Functions-Hooking)**: Manually loading PE files and hooking Export Address Table (EAT) functions.
+- **[PyCryptoLib](https://github.com/ahron-chet/Asymmetric-encryption-algorithms-RSA-Elgamal-Diffie-Hellman)**: Implementations of RSA, ElGamal, and Diffie-Hellman algorithms in Python.
